@@ -24,4 +24,5 @@ if(flag==1)
 cout<<"Yes(given string is in binary format)"<<endl;
 else
 cout<<"No";
+return 0; 
 }
